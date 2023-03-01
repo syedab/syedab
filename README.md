@@ -10,27 +10,27 @@ Welcome to my profile on Github! You may find a collection of my Python projects
 Various Machine Learning Projects exploring ML concepts in depth
 
 - Project-1 - Linear Regression and Gradient Descent.
-- 
+ 
 - Training two types of regression models Linear Regression and Gradient Descent using Iris Dataset. Linear Regression is a technique for forecasting real-world values given some input. To improve our linear model, we apply the gradient descent approach.
 
 - Project-2 - Supervised Learning using Linear Discriminant Analysis (LDA).
-- 
+ 
 - Training LDA models to determine which input variables make up the most effective linear combinations for separating distinct data classes.Based on their measurements,   the Iris dataset reliably categorizes iris flowers. It is good for datasets with many classes and tiny sample numbers.
 
 - Project-3 - Multi-SVM and Non-Linear SVM in Random-Forest Classifier.
-- 
+ 
 - For data that may be divided into many classes and that cannot be separated linearly, the classification techniques Multi SVM and Non-linear SVM are utilized. A non-linearly separable dataset for testing classification methods is produced using Scikit-learn's create Circles function. A Random Forest classifier trained on the Iris dataset have its decision boundary shown using an interactive 3D plot utilizing Plotly's Random Forest Visualization feature.
 
 - Project-4 - Neural Network with Various Functions and Solving the XOR Problem in Handwritten Digit Recognition Dataset.
-- 
+ 
 - When building a neural network, used a variety of activation functions to introduce non-linearity, including the sigmoid function and the hyperbolic tangent function. Also evaluated the difference between the predicted and actual output probabilities using the cross-entropy loss function and the softmax activation function for multi-class classification. Trained a neural network on a dataset of handwritten digit recognition to solve the XOR issue, and then used the backpropagation technique to change the network's weights and biases to reduce the loss function. Using these approaches, created a neural network capable of classifying handwritten digits and solving the XOR issue.
 
 - Project-5 - Implementing Decision Trees, Random Forests, and AdaBoost on Titanic Dataset.
-- 
+ 
 - The Titanic dataset is often used for classification problems, with the purpose of predicting whether or not a passenger survived based on various input variables. To address this issue,  used the decision trees, random forests, and AdaBoost algorithms. Although decision trees are an easy-to-visualize, straightforward, and interpretable model, overfitting may occur. The overfitting issue is reduced by random forests by combining the predictions of many decision trees, creating a more precise and reliable model. AdaBoost is an ensemble learning technique that iteratively develops weak classifiers and combines them into a stronger classifier. These methods enabled to create models that accurately forecast the survival of Titanic passengers.
 
 - Project-6 - Convolutional Neural Networks using TensorFlow: Basic CNN, All Convolutional Net, Regularization, and Transfer Learning with Pre-trained Resnet18 Model
-- 
+ 
 - For image classification applications, convolutional neural networks (CNN) are a common form of neural network. Used two convolutional layers to build a simple CNN, then three fully connected layers with the ReLU activation function to provide non-linearity. Three convolutional layers are used to create an All Convolutional Net, which is then followed by a pooling layer that makes use of the ReLU activation function. Three fully connected layers, two convolutional layers, and one additional convolutional layer are used to accomplish regularization. Last but not least, transfer learning is used with pre-trained models like ResNet18 to increase the model's accuracy by exploiting the learnt characteristics of the pre-trained model.  Created efficient models for picture classification problems by utilizing these methods.
 These designs are implemented using the well-liked framework TensorFlow, which is used for creating and training deep learning models.
 
@@ -53,6 +53,7 @@ DBMS project - Designed a Database System for a Motel Booking System using Omega
 Designed a database system for a motel booking system using Omega Oracle and created a data model that captures the relationships between entities such as guests, rooms, reservations, and payments. The system enables effective data storage and retrieval while upholding data consistency and integrity with the use of restrictions and triggers. Data integrity is improved and redundancy is reduced by using normalization procedures. To secure sensitive data, the system also uses security features including access restriction and encryption. For developing, installing, and operating a reliable and scalable database system for a hotel booking system, Omega Oracle offers a variety of tools and functions.
 
 -   📫 How to reach me syedabab@gmail.com ...
+
 
 
 
