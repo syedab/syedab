@@ -42,9 +42,20 @@ An app called Say It Right was created to teach users how to pronounce one other
 
 --------------------------------------------------------------------------Back-end Projects--------------------------------------------------------------------------- 
 
+JavaConcurreny- Implementation involved in Google Drive/ Dropbox. 
+
+Implementation of functionalities like uploading a file, downloading a file, allowing multiple users to perform operations like read, write, delete, update etc.
+File Synchronization using Delta Sync: Files must be synced continuously as changes are detected. To detect the changes a watcher is implemented.
+Enabling the options to suspend and resume the ongoing synchronization process.
+Multiple clients must be able to view synchronization status and other information like metadata of file, may be previous version updates etc.
+Error Handling must be implemented during the cases like poor network (Network Throttles), Invalid Operation from user etc.
+The connection between multiple clients to the server must be established using UDP.
+
+
 Python project  -	Sharing of resources in Networked systems (Verbose Lamp) -
 
 Python's multithreading feature permits the concurrent execution of several threads inside a single process, improving performance and resource efficiency. By enabling effective communication and data transmission across networked devices, using several socket connections concurrently can further improve this. Clients may access remote resources as if they were local because to location transparency, which gives distributed systems more flexibility and scalability. Directory synchronization can provide consistency between several systems, and replication implementation transparency can enable fault tolerance and redundancy. Mutual exclusion enables secure and effective concurrent access to shared resources by preventing race situations and data inconsistencies. Python has several built-in tools and modules for putting these ideas into practice, enabling strong and adaptable multithreaded programs.
+
 
 -------------------------------------------------------------------------Database Project------------------------------------------------------------------------------
 
